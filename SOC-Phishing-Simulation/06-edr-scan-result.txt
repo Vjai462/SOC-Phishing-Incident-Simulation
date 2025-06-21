@@ -1,0 +1,13 @@
+EDR Scan Report - Device: DESKTOP-ACME123
+
+Scan Time: 21-07-2025 09:02:17
+User: jane.doe@acme-corp.com
+
+Findings:
+- No malware detected
+- No persistence mechanisms found
+- No unauthorized changes to system files
+
+Risk Level: Low (Phishing site accessed, but no payload executed)
+
+Action Taken: Device marked clean

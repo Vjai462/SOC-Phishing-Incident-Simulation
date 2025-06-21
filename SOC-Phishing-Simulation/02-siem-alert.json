@@ -1,0 +1,18 @@
+{
+  "alert_id": "ALERT-20250721-001",
+  "timestamp": "2025-07-21T08:47:10+05:30",
+  "alert_source": "Microsoft Defender for Office 365",
+  "alert_title": "Suspicious Email Detected - Possible Phishing",
+  "severity": "High",
+  "user_affected": "jane.doe@acme-corp.com",
+  "email_subject": "Urgent: Copyright Violation Report on Your Instagram Account",
+  "sender_address": "security@mail-instagram-support.com",
+  "delivery_action": "Delivered",
+  "detection_technique": "URL Reputation + SPF Fail",
+  "phishing_url": "https://ig-meta-security.support-verify.com",
+  "message_id": "<18273645.mail-instagram-support.com>",
+  "email_client": "Outlook Web Access",
+  "device_used": "DESKTOP-ACME123",
+  "status": "Active",
+  "investigation_status": "Pending"
+}

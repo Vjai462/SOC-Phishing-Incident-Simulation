@@ -1,0 +1,6 @@
+[21-07-2025 08:46:18] User: jane.doe@acme-corp.com
+[Device: DESKTOP-ACME123]
+Accessed URL: https://ig-meta-security.support-verify.com
+DNS Resolution: 45.76.190.10
+URL Category: Newly Registered / Suspicious
+Status: Clicked
